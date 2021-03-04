@@ -1,0 +1,16 @@
+{
+    "name": "des/contactform",
+    "description": "This package is about contact us form",
+    "authors": [
+        {
+            "name": "AjayYadavGBI",
+            "email": "ajay_yadav@gbinternational.in"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyVendor\\Contactform\\": "src/"
+        }
+    }
+}
